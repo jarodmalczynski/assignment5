@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "version": "0.0.1",
+  "description": "assignment5",
+  "main": "bin/server",
+  "scripts": {
+    "start": "node bin/server"
+  },
+  "author": "Jarod Malczynski",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "latest",
+    "formidable": "latest",
+    "nedb": "latest"
+  }
+}
